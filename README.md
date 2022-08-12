@@ -1,7 +1,7 @@
  👋 Hi, I’m Triya Augustine
  🌱 I’m currently doing BSc Computer Science at York University
  
- #Languages and tools
+ 
  
  
 
