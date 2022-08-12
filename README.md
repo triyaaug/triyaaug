@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Triya Augustine
-- - 🌱 I’m currently doing BSc Computer Science at York University
+- 🌱 I’m currently doing BSc Computer Science at York University
 <!--- 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
